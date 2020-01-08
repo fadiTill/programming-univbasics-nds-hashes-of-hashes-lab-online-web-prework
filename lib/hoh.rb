@@ -58,5 +58,5 @@ def naming_system
   #  Species
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
-puts naming_system = { [PORTION_1 n/ PORTION_2 n/ PORTION_3 n/PORTION_4
+puts naming_system = { [PORTION_1 n/ PORTION_2 n/ PORTION_3 n/PORTION_4]
 end
